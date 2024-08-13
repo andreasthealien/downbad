@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.2b222be3.css",
-    "main.js": "./static/js/main.a72583f2.js",
+    "main.js": "./static/js/main.eea10e73.js",
     "static/media/Wellfleet-Regular.ttf": "./static/media/Wellfleet-Regular.56f81fe62f973eaab4a0.ttf",
     "static/media/logo.png": "./static/media/logo.c60578f0951f3861a52b.png",
     "index.html": "./index.html",
     "main.2b222be3.css.map": "./static/css/main.2b222be3.css.map",
-    "main.a72583f2.js.map": "./static/js/main.a72583f2.js.map"
+    "main.eea10e73.js.map": "./static/js/main.eea10e73.js.map"
   },
   "entrypoints": [
     "static/css/main.2b222be3.css",
-    "static/js/main.a72583f2.js"
+    "static/js/main.eea10e73.js"
   ]
 }
